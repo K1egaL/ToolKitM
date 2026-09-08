@@ -18,7 +18,8 @@ public static class Menu
                 "               msu. Alpha ");
 
             Console.ForegroundColor = ConsoleUI.SecondaryColor;
-            Console.WriteLine("warning: custom software. not commercial!");
+            Console.WriteLine("warning: custom software");
+            Console.WriteLine("warning: oficial repository: https://github.com/K1egaL/ToolKitM !!!");
             Console.ForegroundColor = ConsoleUI.TextColor;
             Console.WriteLine();
 
